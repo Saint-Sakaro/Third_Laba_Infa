@@ -36,7 +36,7 @@ Windows
 - Склонируйте репозиторий:
 ```bash
 git clone https://github.com/Saint-Sakaro/Third_Laba_Infa.git
-cd Second_Laba_Infa
+cd Third_Laba_Infa
 ```
 
 - Создайте директорию для сборки:
