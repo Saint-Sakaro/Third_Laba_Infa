@@ -1,4 +1,0 @@
-/Users/fedorbelov/Documents/Third_Laba_Infa/build/CMakeFiles/Tests.dir
-/Users/fedorbelov/Documents/Third_Laba_Infa/build/CMakeFiles/Lab2.dir
-/Users/fedorbelov/Documents/Third_Laba_Infa/build/CMakeFiles/edit_cache.dir
-/Users/fedorbelov/Documents/Third_Laba_Infa/build/CMakeFiles/rebuild_cache.dir
